@@ -1,0 +1,2 @@
+![](average.svg)
+![](days.svg)
